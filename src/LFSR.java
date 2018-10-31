@@ -12,7 +12,7 @@ public class LFSR {
 	public static void main(String[] args) {
 		
 		
-		//trying to add to git
+		//trying to add to
 
 		
 		
